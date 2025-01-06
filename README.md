@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2024yuva
 - 👀 I’m interested in learning new things and changing technologies
-- 🌱 I’m currently learning c,c++, python languages
+- 🌱 I’m specialised in Python, C, C++, SQL Database
 - 📫 Reach me on yuvarrunjithars@gmail.com
 - 😄 Pronouns: she/her
 
