@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love exploring things!
 
 ![image](https://github.com/user-attachments/assets/c9a6bb08-69d5-49d6-a5da-85e2c869196d)
+![image](https://assets.leetcode.com/static_assets/marketing/202504.gif)
 
 
 <!---
