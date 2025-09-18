@@ -7,12 +7,6 @@
 <p align="center">
   <img src="https://i.ibb.co/Zd7x8X0/neon-glitch.gif" alt="Glitch Header" width="100%" />
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2024yuva&show_icons=true&theme=radical&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2024yuva&theme=radical&hide_border=false" height="180em"/>
-</p>
 <p align="center">
 
   <!-- SSOC -->
