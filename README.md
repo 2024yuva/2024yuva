@@ -32,25 +32,22 @@
 
 </div>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/y_slayz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvarrunjitha-r-s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvarrunjithars@gmail.com) 
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/y_slayz) 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvarrunjitha-r-s) 
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvarrunjithars@gmail.com) 
+
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://yuvz.substack.com/)
+
+---
 ![](https://github-readme-stats.vercel.app/api?username=2024yuva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=2024yuva&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2024yuva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-![](https://github-contributor-stats.vercel.app/api?username=2024yuva&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 <!---
 2024yuva/2024yuva is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
