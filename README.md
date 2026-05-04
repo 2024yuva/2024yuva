@@ -2,9 +2,9 @@
 
 Hello! 👋 My name is **Yuvarrunjitha R S**. I am from Tamil Nadu, India 🇮🇳 and currently pursuing **B.E in Computer Science and Engineering (Artificial Intelligence & Machine Learning)** at **Chennai Institute of Technology** 🎓.
 
-I have a huge interest in **Artificial Intelligence, Machine Learning, Software Development, and Research** 🤖💡. I enjoy building real-world solutions using **AI Agents, RAG systems, Full Stack Development, and Cloud technologies** 🚀. Currently exploring advanced **LLMs, System Design, and Open Source**.
+I have a huge interest in **Artificial Intelligence, Machine Learning, Software Development, and Research**. I enjoy building real-world solutions using **AI Agents, RAG systems, Full Stack Development, and Cloud technologies**. Currently exploring advanced **LLMs, System Design, and Open Source**.
 
-Currently an **IEEE Published Research Author** 📄, **GDG On Campus Co-Lead** 📱, and an active participant in hackathons and developer communities 🏆. I love collaborating with teams and building technology that creates real impact for society ✨.
+Currently an **IEEE Published Research Author**, **GDG On Campus Co-Lead of app dev** , and an active participant in hackathons and developer communities. I love collaborating with teams and building technology that creates real impact for society.
 
 ### Skills:
 Artificial Intelligence | Machine Learning | Full Stack Development | Problem Solving | Research | Community Building  
