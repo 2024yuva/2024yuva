@@ -22,7 +22,7 @@ Artificial Intelligence | Machine Learning | Full Stack Development | Problem So
 
 - [AskMyDocs - RAG-powered document Q&A](https://github.com/2024yuva/AskMyDocs)
 - [AI Payment Reminder Agent  ](https://github.com/AI-Developing-Hunters/AI-Payment-Reminder-Agent)
-- [Smart Detect - Real-time IDS](https://github.com/2024yuva/Intrusion-Detection-System)
+- [Medical Assistant/Agent](https://github.com/2024yuva/MedAI)
 
 ---
 
