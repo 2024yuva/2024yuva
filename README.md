@@ -32,6 +32,7 @@ Artificial Intelligence | Machine Learning | Full Stack Development | Problem So
   <!-- GSSoC -->
   <img src="https://img.shields.io/badge/GSSoC'25-Contributor-FB8C00?style=for-the-badge&logo=github&logoColor=white" />
 
+Check out my portfolio -> https://yuvarrunjithars.dev/
 
 ### 🌐 Connect
 
